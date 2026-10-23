@@ -5,7 +5,7 @@ Wing-level energy metering and common-area control for university residential ha
 Team SustainSSTU, Sunamganj Science and Technology University: Kawsar Arafat and MD Firdaus Nur Arif.
 Entry for the Sustainable Energy Idea Contest 2026, Category 2 (15% energy savings by 2030).
 
-Live demo: https://hallgrid-bd.vercel.app
+Live demo: https://hallgrid.vercel.app
 
 ## Status
 
