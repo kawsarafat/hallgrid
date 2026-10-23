@@ -231,7 +231,7 @@ export default function Page() {
               </span>
             )}
             <a
-              href="https://github.com/kawsarafat/hallgrid-bd"
+              href="https://github.com/kawsarafat/hallgrid"
               target="_blank"
               rel="noreferrer"
               className="hidden items-center gap-1.5 rounded-lg px-2 py-1.5 text-[13px] text-ink-2 hover:bg-sunken hover:text-ink md:inline-flex"
