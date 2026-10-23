@@ -14,7 +14,7 @@
 #define WIFI_SSID "your-hall-wifi"
 #define WIFI_PASS "your-password"
 
-#define API_URL "https://hallgrid-bd.vercel.app/api/telemetry"
+#define API_URL "https://hallgrid.vercel.app/api/telemetry"
 
 // Optional: PEM of the root certificate that signs API_URL's TLS certificate.
 // Without it the node encrypts traffic but does not verify the server.
